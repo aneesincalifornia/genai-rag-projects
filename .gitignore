@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Vector index files (if you later persist FAISS)
+*.faiss
+*.pkl
