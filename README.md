@@ -20,3 +20,8 @@ pdf-qa-langchain/
 ├─ .env.example       # Environment variable template
 └─ sample_docs/
    └─ sample.pdf      # (optional) Example PDF for testing
+
+**Environment setup**
+conda create -n llms python=3.11
+conda activate llms
+pip install -r requirements.txt
