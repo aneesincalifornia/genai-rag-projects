@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+# API keys and secrets - NEVER commit these
+.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FAISS index (large binary files, rebuild locally)
+faiss_index/
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+=======
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Vector index files (if you later persist FAISS)
+*.faiss
+*.pkl
+>>>>>>> 31ce4850e0ab21112b1a75f9d1ebe68bf82d1fcb
