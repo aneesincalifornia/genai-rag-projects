@@ -1,0 +1,19 @@
+# Virtual environment — never push this
+venv/
+
+# API keys — never push this
+.env
+
+# FAISS index — large binary files
+faiss_index/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# PDF files — copyrighted material
+*.pdf
+
+# Mac system files (already there but double check)
+.DS_Store
