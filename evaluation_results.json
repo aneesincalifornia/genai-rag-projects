@@ -1,0 +1,50 @@
+{
+  "overall": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.973,
+    "context_precision": 0.95,
+    "context_recall": 1.0
+  },
+  "per_question": [
+    {
+      "question": "What is content marketing?",
+      "answer": "Content marketing is about sharing helpful information rather than pitching. It is a dialogue, not a monologue, and focuses on interacting with buyers to help solve their problems. Content marketing is authentic and involves creating and distributing content across all relevant touchpoints to the right person at the right time and place. It includes various media assets such as how-to guides, magazines, blog posts, videos, newsletters, articles, interviews, and podcasts. The goal is to provide value to the target audience and drive profitable customer action. Successful content marketing requires understanding the audience's media consumption habits and creating compelling content to meet or exceed their information needs. (Found on pages 228-229)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What are the 7 steps to building a personal brand?",
+      "answer": "The 7 steps to building a personal brand are:\n\n1. Do an environmental scan\n2. Create a brand value proposition (BVP)\n3. Position your brand\n4. Figure out your brand story\n5. Develop a content strategy\n6. Develop a content distribution strategy (a.k.a. media plan)\n7. Measure results\n\nThis information is found on page 375.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.833,
+      "context_recall": 1.0
+    },
+    {
+      "question": "How do influencers help brands grow?",
+      "answer": "Influencers help brands grow by acting as trusted sources for their followers, similar to how friends are perceived. When influencers speak to their audience, it is as if they are speaking directly to each follower, which increases trust levels. This trust makes followers more likely to take action based on the influencer's recommendations, such as buying a product or seeing a movie. This ability to cut through the noise and reach audiences effectively, especially younger generations, is a key reason why influencer marketing has been successful. (Page 354)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.866,
+      "context_precision": 0.917,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What is a buyer persona?",
+      "answer": "A buyer persona is a semifictional representation of your ideal customer based on market research and real data about your existing customers. Effective personas take into account customer demographics, behavior patterns, motivations, and goals. (Found on page 130)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    {
+      "question": "What is the role of data in modern marketing?",
+      "answer": "The role of data in modern marketing is to drive insights and enable marketers to predict outcomes and make brand-based decisions more effectively. Data, when made actionable by machine learning, allows marketers to create personalized campaigns from the perspective of the customer and their likely intentions. It helps marketers study their buyers more carefully and implement ideas more effectively than before. However, while data and AI play a valuable role, they still require a human touch to be deployed effectively. (Found on pages 21 and 71)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    }
+  ]
+}
